@@ -40,3 +40,16 @@ body{
 	background-color:#69b8aa;
 	color: #ffffff;
 }
+
+h2:hover{
+	color: black;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:hover{
+	color: black;
+}
